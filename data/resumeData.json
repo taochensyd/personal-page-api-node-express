@@ -1,0 +1,275 @@
+{
+  "resume": {
+    "personalInfo": {
+      "id": 1,
+      "name": {
+        "first": "Tao",
+        "last": "Chen"
+      },
+      "mobileNumber": "0466337173",
+      "emailAddress": "TAOCHENSYD@GMAIL.COM",
+      "location": {
+        "city": "Sydney",
+        "country": "Australia"
+      }
+    },
+    "projectsInfo": [
+      {
+        "id": 1,
+        "projectTitle": "Car Reservation (HTML, CSS, JavaScript(jQuery), JSON Data)",
+        "startDate": "April 2021",
+        "endDate": "May 2021",
+        "organizationName": "University of Technology Sydney",
+        "type": "University Assignment",
+        "descriptionText": "Scaleable car reservation system, import external JSON type data file and load it into the system. The system allows users to select different types of car, leasing periods and a total price will be displayed after users input all their personal details. Variable also used session and cookies.",
+        "sourceCode": "https://github.com/taochensyd/assignment_car_reservation",
+        "livePage": "",
+        "authorID": "1"
+      },
+      {
+        "id": 2,
+        "projectTitle": "Online Grocery Page (HTML, CSS, JavaScript, PHP, SQL)",
+        "startDate": "March 2021",
+        "endDate": "April 2021",
+        "organizationName": "University of Technology Sydney",
+        "type": "University Assignment",
+        "descriptionText": "An online grocery page displaying items in a tree layout structure. Data of the items were retrieved from the backend using PHP and SQL. Session and cookies were used on the client-side. The shopping cart displays all selections of grocery items. A total price was calculated at the end of the checkout.",
+        "sourceCode": "https://github.com/taochensyd/assignment_grocery_page",
+        "livePage": "",
+        "authorID": "1"
+      }
+    ],
+    "education": [
+      {
+        "id": 1,
+        "courseName": "Master of Information Technology",
+        "universityName": "University of Technology Sydney",
+        "startDate": "February 2021",
+        "endDate": null,
+        "major": ["Software Development"],
+        "subMajor": [null]
+      },
+      {
+        "id": 3,
+        "courseName": "Graduate Certificate in Computing",
+        "universityName": "University of New South Wales",
+        "startDate": "February 2020",
+        "endDate": "December 2020",
+        "major": [null],
+        "subMajor": ["Information Technology"]
+      },
+      {
+        "id": 3,
+        "courseName": "Bachelor of Information and Communications Technology",
+        "universityName": "Western Sydney University",
+        "startDate": "February 2017",
+        "endDate": "September 2019",
+        "major": [null],
+        "subMajor": ["Networking", "Mobile Computing"]
+      }
+    ],
+    "workExperiences": [
+      {
+        "id": 1,
+        "companyName": "Collins Aerospace",
+        "location": "Sydney Airport",
+        "position": "Information Technology Support",
+        "startDate": "January 2019",
+        "endDate": "January 2020",
+        "workDescrition": [
+          "Providing external support to end-users for software and hardware related issues.",
+          "Provisioning and replacement hardware and devices with required configurations.",
+          "Assisting with software updates on the system and related infrastructure.",
+          "Asset management of devices.",
+          "Regular checking server/database status.",
+          "Documenting tickets for every incident, and follow-up if required."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "skill": "JavaScript",
+        "subSkills": [
+          "ES6",
+          "Control Flow",
+          "Error Handling",
+          "Fetch API",
+          "Higher-Order Functions"
+        ],
+        "category": "Front-End",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 2,
+        "skill": "Node.JS",
+        "subSkills": ["NPM (Node Package Manager)"],
+        "category": "Back-End",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 3,
+        "skill": "AWS (Amazon Web Service)",
+        "subSkills": [
+          "EC2",
+          "S3",
+          "Route53",
+          "Cloud9",
+          "CloutFront",
+          "Elastic Beanstalk",
+          "AWS Amplify"
+        ],
+        "category": "Cloud",
+        "section": "",
+        "level": "4"
+      },
+      {
+        "id": 4,
+        "skill": "Team Work",
+        "subSkills": ["Communications", "Email", "Task Progress"],
+        "category": "Soft Skills",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 5,
+        "skill": "HTML5",
+        "subSkills": ["Document Object Model", "Tags"],
+        "category": "Front-End",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 6,
+        "skill": "CSS3",
+        "subSkills": ["Flex-box"],
+        "category": "Front-End",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 7,
+        "skill": "TypeScript",
+        "subSkills": [""],
+        "category": "Front-End",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 8,
+        "skill": "React",
+        "subSkills": ["JSX", "React-Rudux", "Context API"],
+        "category": "Front-End",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 9,
+        "skill": "jQuery",
+        "subSkills": ["Ajax"],
+        "category": "Front-End",
+        "section": "",
+        "level": "4"
+      },
+      {
+        "id": 10,
+        "skill": "Express",
+        "subSkills": ["Routes", "API Endpoint"],
+        "category": "Back-End",
+        "section": "",
+        "level": "3"
+      },
+      {
+        "id": 11,
+        "skill": "Git CLI",
+        "subSkills": ["Git-CLI"],
+        "category": "Version Control",
+        "section": "",
+        "level": "4"
+      },
+      {
+        "id": 12,
+        "skill": "Networking, Routing & Switching",
+        "subSkills": [
+          "HTTP/HTTPS",
+          "TCP/IP",
+          "IP Subnetting",
+          "VPN",
+          "DHCP",
+          "DNS",
+          "VLAN",
+          "Wireless"
+        ],
+        "category": "Networking",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 13,
+        "skill": "SDLC Agile Development",
+        "subSkills": ["Agile Methodology"],
+        "category": "Soft Skills",
+        "section": "",
+        "level": "4"
+      },
+      {
+        "id": 14,
+        "skill": "Customer Service",
+        "subSkills": [""],
+        "category": "Soft Skills",
+        "section": "",
+        "level": "4"
+      },
+      {
+        "id": 15,
+        "skill": "Team Player",
+        "subSkills": ["Collaboration", "Attentions to Details", "Positive Attitude"],
+        "category": "Soft Skills",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 16,
+        "skill": "Documentation",
+        "subSkills": ["Code Comment", "Note"],
+        "category": "Soft Skills",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 17,
+        "skill": "SQL",
+        "subSkills": ["MySQL", "PostgreSQL", "CRUD(Create, Read, Update and Delete)"],
+        "category": "Database",
+        "section": "",
+        "level": "5"
+      },
+      {
+        "id": 20,
+        "skill": "PHP",
+        "subSkills": ["Object-oriented programming"],
+        "category": "Programming Languages",
+        "section": "",
+        "level": "4"
+      },
+      {
+        "id": 21,
+        "skill": "JAVA",
+        "subSkills": ["Object-oriented programming"],
+        "category": "Programming Languages",
+        "section": "",
+        "level": "4"
+      },
+      {
+        "id": 22,
+        "skill": "JavaScript",
+        "subSkills": ["ES6"],
+        "category": "Programming Languages",
+        "section": "",
+        "level": "5"
+      }
+    ]
+  }
+}
